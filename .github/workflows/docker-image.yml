@@ -27,4 +27,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: qunskl/nodejs-github-action:${{ env.CURRENT_TIME }}
+        tags: qunsk/nodejs-github-action:${{ env.CURRENT_TIME }}
